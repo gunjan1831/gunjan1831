@@ -2,8 +2,7 @@
 
 <!--
 **gunjan1831/gunjan1831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Profile views](https://komarev.com/ghpvc/?username=gunjan1831&color=green)
-![](https://komarev.com/ghpvc/?username=gunjan1831)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gunjan1831&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+<br>
+![](https://komarev.com/ghpvc/?username=gunjan1831)
