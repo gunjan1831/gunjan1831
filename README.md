@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gunjan1831&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-<br>
+
 ![](https://komarev.com/ghpvc/?username=gunjan1831)
