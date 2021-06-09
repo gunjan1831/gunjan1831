@@ -4,7 +4,6 @@
 **gunjan1831/gunjan1831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Django REST-API and Full Stack Development
 - 🌱 I’m currently learning Django REST-API and Data Structures And Algortihms
