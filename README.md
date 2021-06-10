@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Django REST-API and Full Stack Development
 - 🌱 I’m currently learning Django REST-API and Data Structures And Algortihms
 - 👯 I’m looking to collaborate on Django Based Projects integrated with Machine Learning and Data Science.
-- 🤔 I’m looking for help with fresh projects ideas!
+- 🤔 I’m looking for fresh projects ideas!
 
 
 
